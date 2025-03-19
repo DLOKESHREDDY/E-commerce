@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply text-gray-900 bg-gray-50;
+  }
+}
+
+@keyframes carousel {
+  0%, 26.66% {
+    opacity: 1;
+  }
+  33.33%, 93.33% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
