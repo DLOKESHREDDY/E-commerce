@@ -8,17 +8,17 @@ const Home = () => {
     {
       url: "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?auto=format&fit=crop&q=80",
       title: "Fresh Banginapalli Mangoes",
-      price: "₹999/dozen"
+      price: "₹200/dozen"
     },
     {
       url: "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&q=80",
       title: "Organic Farm Fresh",
-      price: "₹1199/dozen"
+      price: "₹250/dozen"
     },
     {
       url: "https://images.unsplash.com/photo-1591073113125-e46713c829ed?auto=format&fit=crop&q=80",
       title: "Carbide-Free Mangoes",
-      price: "₹899/dozen"
+      price: "₹300/dozen"
     }
   ];
 
